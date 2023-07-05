@@ -1,0 +1,15 @@
+div{
+    background-color: brown;
+    padding: 15px;
+    border: 20px solid mediumorchid;
+    width: 21%;
+    display: inline-block;
+    box-shadow: 15px 15px seagreen;
+    /* box-sizing: border-box; */
+    border-radius: 10px;
+    text-align: justify;
+    margin: 10px;
+}
+h3{
+    text-align: center;
+}
